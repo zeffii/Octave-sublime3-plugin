@@ -1,0 +1,4 @@
+{
+    "path": "C:/Octave/Octave3.6.4_gcc4.6.2/bin/",
+    "cmd": ["octave", "--no-site-file", "-p $file_path", "$file_name"]
+}
